@@ -30,7 +30,7 @@ $coexpression_path = "$root_path/coexpression";
 
 //Site title, site logo and header image
 $dbTitle = "Brown Algae Atlas";
-$db_logo = "logos/brown_algae_logo.png";
+$db_logo = "brown_atlas_logo.webp";
 
 // Select 0 to disable the header image, or provide an image filename to display it.
 $header_img = 0;

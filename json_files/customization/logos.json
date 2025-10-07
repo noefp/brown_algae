@@ -1,6 +1,10 @@
 {
   "logos":
     [
+      { "image":"mpi_tub_logo.png",
+        "link":"https://www.bio.mpg.de/162864/coelho-lab",
+        "height":"85"
+      },
       { "image":"ihsm_logo.png",
         "link":"https://www.ihsm.uma-csic.es/",
         "height":"85"
