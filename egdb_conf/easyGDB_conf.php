@@ -15,7 +15,7 @@ $lab_path = "$root_path/$egdb_files_folder/egdb_labs";
 $json_files_path = "$root_path/$egdb_files_folder/json_files";
 
 // Custom css file
-// $custom_css_path = "$egdb_files_folder/css/brown_algae.css";
+$custom_css_path = "$egdb_files_folder/css/brown_algae.css";
 
 //Expression
 $expression_path = "$root_path/expression_data/brown_algae";
@@ -50,7 +50,7 @@ $tb_rm_home = 1;
 $tb_about = 0;
 $tb_downloads = 0;
 $tb_species = 0;
-$tb_search_box = 0;
+$tb_search_box = 1;
 
 $tb_tools = 0;
 $tb_search = 0;
@@ -60,7 +60,10 @@ $tb_seq_ext = 0;
 $tb_annot_ext = 0;
 $tb_lookup = 0;
 $tb_enrichment = 0;
+$tb_help = 0;
 $tb_more = 0;
+$tb_private = 0;
+$tb_passport = 0;
 
 //Gene expression atlas
 $tb_gene_expr = 0;
