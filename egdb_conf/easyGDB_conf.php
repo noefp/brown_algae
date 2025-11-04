@@ -105,7 +105,7 @@ $max_annotation_input = 15000;
 
 // BLAST
 //enable BLAST in multiple databases simultaneously
-$multiple_blast_db = 0;
+$multiple_blast_db = 1;
 
 $blast_example=">protein_or_DNA
 GGAGGTGACTAGGGAGGGCGATGTAATAGAACTGGAGCAATGTATTGTGCATGATCGGAA
