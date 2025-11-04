@@ -34,11 +34,11 @@
           <h5 style="color:#b52b27">Desmarestia spp.</h5>
           <div class="list-group">
             <a href="/jbrowse/?data=data%2Fdesmarestia_dudresnayi" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Desmarestia dudresnayi</i>
             </a>
             <a href="jbrowse/?data=data%2Fdesmarestia_herbacea" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Desmarestia herbacea</i>
             </a>
           </div>
@@ -48,7 +48,7 @@
           <h5 style="color:#b52b27">Dictyota dichotoma</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fdictyota_dichotoma" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Dictyota dichotoma</i>
             </a>
           </div>
@@ -62,7 +62,7 @@
           <h5 style="color:#b52b27">Ectocarpus sp7</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fectocarpus_sp7" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Ectocarpus sp7</i>
             </a>
           </div>
@@ -72,11 +72,11 @@
           <h5 style="color:#b52b27">Fucus spp.</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fectocarpus_sp7" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Fucus distichus</i>
             </a>
             <a href="jbrowse/?data=data%2Fectocarpus_sp7" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Fucus serratus</i>
             </a>
           </div>
@@ -90,7 +90,7 @@
           <h5 style="color:#b52b27">Hapterophycus canaliculatus</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fhapterophycus_canaliculatus" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Hapterophycus canaliculatus</i>
             </a>
           </div>
@@ -100,7 +100,7 @@
           <h5 style="color:#b52b27">Laminaria digitata</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Flaminaria_digitata" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Laminaria digitata</i>
             </a>
           </div>
@@ -114,7 +114,7 @@
           <h5 style="color:#b52b27">Saccharina latissima</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fsaccharina_latissima" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Saccharina latissima</i>
             </a>
           </div>
@@ -124,11 +124,11 @@
           <h5 style="color:#b52b27">Saccorhiza spp.</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fsaccorhiza_dermatodea" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Saccorhiza dermatodea</i>
             </a>
             <a href="jbrowse/?data=data%2Fsaccorhiza_polyschides" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Saccorhiza polyschides</i>
             </a>
           </div>
@@ -142,7 +142,7 @@
           <h5 style="color:#b52b27">Schizocladia ischiensis</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fschizocladia_ischiensis" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Schizocladia ischiensis</i>
             </a>
           </div>
@@ -152,7 +152,7 @@
           <h5 style="color:#b52b27">Scytosiphon promiscuus</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fscytosiphon_promiscuus" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Scytosiphon promiscuus</i>
             </a>
           </div>
@@ -166,7 +166,7 @@
           <h5 style="color:#b52b27">Sphacelaria rigidula</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fsphacelaria_rigidula" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Sphacelaria rigidula</i>
             </a>
           </div>
@@ -176,7 +176,7 @@
           <h5 style="color:#b52b27">Sphaerotrichia firma</h5>
           <div class="list-group">
             <a href="jbrowse/?data=data%2Fsphaerotrichia_firma" target="_blank"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <i>Sphaerotrichia firma</i>
             </a>
           </div>
