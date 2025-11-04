@@ -44,8 +44,8 @@ $file_database = 1;
 $rm_jb_frame = 0;
 
 // Toolbar
-$tb_custom = 0;
-$tb_rm_home = 0;
+$tb_custom = 1;
+$tb_rm_home = 1;
 
 $tb_about = 0;
 $tb_downloads = 0;
@@ -63,7 +63,7 @@ $tb_enrichment = 0;
 $tb_more = 0;
 
 //Gene expression atlas
-$tb_gene_expr = 1;
+$tb_gene_expr = 0;
 
 // About
 $ab_citation = 0;
