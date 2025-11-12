@@ -2,5 +2,7 @@
   "Araport11":"http://www.arabidopsis.org/servlets/TairObject?type=locus&name=query_id",
   "SwissProt":"http://www.uniprot.org/uniprot/query_id",
   "InterPro":"https://www.ebi.ac.uk/interpro/entry/InterPro/query_id",
-  "NCBI":"https://www.ncbi.nlm.nih.gov/protein/query_id"
+  "NCBI":"https://www.ncbi.nlm.nih.gov/protein/query_id",
+  "Ensembl (Human)":"https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=query_id",
+  "Ensembl (Mouse)":"https://www.ensembl.org/Mus_musculus/Gene/Summary?g=query_id"
 }
