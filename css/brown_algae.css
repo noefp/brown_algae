@@ -124,7 +124,7 @@ h4 {
 }
 
 .navbar .dropdown-menu {
-    background-color: #963;
+    background-color: #741;
 }
 
 .navbar .dropdown-menu .dropdown-item {
@@ -132,7 +132,7 @@ h4 {
 }
 
 .navbar .dropdown-item:hover {
-    background-color: darkgreen;
+    background-color: #974;
 }
 
 .sequence_blast_box {
