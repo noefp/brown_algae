@@ -4,7 +4,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Desmarestia herbacea": {
@@ -12,7 +12,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Dictyota dichotoma": {
@@ -20,7 +20,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Ectocarpus sp7": {
@@ -28,7 +28,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Fucus distichus": {
@@ -36,7 +36,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Fucus serratus": {
@@ -44,7 +44,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Hapterophycus canaliculatus": {
@@ -52,7 +52,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Laminaria digitata": {
@@ -60,7 +60,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Saccharina latissima": {
@@ -68,7 +68,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Saccorhiza dermatodea": {
@@ -76,7 +76,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Saccorhiza polyschides": {
@@ -84,7 +84,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Schizocladia ischiensis": {
@@ -92,7 +92,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Scytosiphon promiscuus": {
@@ -100,7 +100,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Sphacelaria rigidula": {
@@ -108,7 +108,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   },
   "Sphaerotrichia firma": {
@@ -116,7 +116,7 @@
     "card_subtitle": "",
     "image": "brown_algae.png",
     "public": "1",
-    "link": "",
+    "link": "species.php",
     "jbrowse": ""
   }
 }
