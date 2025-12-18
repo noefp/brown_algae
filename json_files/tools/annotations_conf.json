@@ -1,7 +1,167 @@
 {
-  "Ectocarpus_sp7_annotations.txt":
-    {"displayed_name":"<i>Ectocarpus</i> sp7",
-      "description":"",
-      "jbrowse":"/jbrowse/?data=data%2Fectocarpus_sp7&loc={gene_name}&tracks=DNA%2Cectocarpus_sp7_gene_models"
-    }
+  "Desmarestia_dudresnayi_annotations.txt": {
+    "displayed_name": "<i>Desmarestia dudresnayi</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fdesmarestia_dudresnayi&loc={gene_name}&tracks=DNA%2Cdesmarestia_dudresnayi_gene_models",
+    "gene_blast_dbs": [
+      "Desmarestia_dudresnayi_cDNA.fasta",
+      "Desmarestia_dudresnayi_CDS.fasta",
+      "Desmarestia_dudresnayi_genome.fasta",
+      "Desmarestia_dudresnayi_proteins.fasta"
+    ]
+  },
+  "Desmarestia_herbacea_annotations.txt": {
+    "displayed_name": "<i>Desmarestia herbacea</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fdesmarestia_herbacea&loc={gene_name}&tracks=DNA%2Cdesmarestia_herbacea_gene_models",
+    "gene_blast_dbs": [
+      "Desmarestia_herbacea_cDNA.fasta",
+      "Desmarestia_herbacea_CDS.fasta",
+      "Desmarestia_herbacea_genome.fasta",
+      "Desmarestia_herbacea_proteins.fasta"
+    ]
+  },
+  "Dictyota_dichotoma_annotations.txt": {
+    "displayed_name": "<i>Dictyota dichotoma</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fdictyota_dichotoma&loc={gene_name}&tracks=DNA%2Cdictyota_dichotoma_gene_models",
+    "gene_blast_dbs": [
+      "Dictyota_dichotoma_cDNA.fasta",
+      "Dictyota_dichotoma_CDS.fasta",
+      "Dictyota_dichotoma_genome.fasta",
+      "Dictyota_dichotoma_proteins.fasta"
+    ]
+  },
+  "Ectocarpus_sp7_annotations.txt": {
+    "displayed_name": "<i>Ectocarpus</i> sp7",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fectocarpus_sp7&loc={gene_name}&tracks=DNA%2Cectocarpus_sp7_gene_models",
+    "gene_blast_dbs": [
+      "Ectocarpus_sp7_cDNA.fasta",
+      "Ectocarpus_sp7_CDS.fasta",
+      "Ectocarpus_sp7_genome.fasta",
+      "Ectocarpus_sp7_proteins.fasta"
+    ]
+  },
+  "Fucus_distichus_annotations.txt": {
+    "displayed_name": "<i>Fucus distichus</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Ffucus_distichus&loc={gene_name}&tracks=DNA%2Cfucus_distichus_gene_models",
+    "gene_blast_dbs": [
+      "Fucus_distichus_cDNA.fasta",
+      "Fucus_distichus_CDS.fasta",
+      "Fucus_distichus_genome.fasta",
+      "Fucus_distichus_proteins.fasta"
+    ]
+  },
+  "Fucus_serratus_annotations.txt": {
+    "displayed_name": "<i>Fucus serratus</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Ffucus_serratus&loc={gene_name}&tracks=DNA%2Cfucus_serratus_gene_models",
+    "gene_blast_dbs": [
+      "Fucus_serratus_cDNA.fasta",
+      "Fucus_serratus_CDS.fasta",
+      "Fucus_serratus_genome.fasta",
+      "Fucus_serratus_proteins.fasta"
+    ]
+  },
+  "Hapterophycus_canaliculatus_annotations.txt": {
+    "displayed_name": "<i>Hapterophycus canaliculatus</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fhapterophycus_canaliculatus&loc={gene_name}&tracks=DNA%2Chapterophycus_canaliculatus_gene_models",
+    "gene_blast_dbs": [
+      "Hapterophycus_canaliculatus_cDNA.fasta",
+      "Hapterophycus_canaliculatus_CDS.fasta",
+      "Hapterophycus_canaliculatus_genome.fasta",
+      "Hapterophycus_canaliculatus_proteins.fasta"
+    ]
+  },
+  "Laminaria_digitata_annotations.txt": {
+    "displayed_name": "<i>Laminaria digitata</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Flaminaria_digitata&loc={gene_name}&tracks=DNA%2Claminaria_digitata_gene_models",
+    "gene_blast_dbs": [
+      "Laminaria_digitata_cDNA.fasta",
+      "Laminaria_digitata_CDS.fasta",
+      "Laminaria_digitata_genome.fasta",
+      "Laminaria_digitata_proteins.fasta"
+    ]
+  },
+  "Saccharina_latissima_annotations.txt": {
+    "displayed_name": "<i>Saccharina latissima</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fsaccharina_latissima&loc={gene_name}&tracks=DNA%2Csaccharina_latissima_gene_models",
+    "gene_blast_dbs": [
+      "Saccharina_latissima_cDNA.fasta",
+      "Saccharina_latissima_CDS.fasta",
+      "Saccharina_latissima_genome.fasta",
+      "Saccharina_latissima_proteins.fasta"
+    ]
+  },
+  "Saccorhiza_dermatodea_annotations.txt": {
+    "displayed_name": "<i>Saccorhiza dermatodea</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fsaccorhiza_dermatodea&loc={gene_name}&tracks=DNA%2Csaccorhiza_dermatodea_gene_models",
+    "gene_blast_dbs": [
+      "Saccorhiza_dermatodea_cDNA.fasta",
+      "Saccorhiza_dermatodea_CDS.fasta",
+      "Saccorhiza_dermatodea_genome.fasta",
+      "Saccorhiza_dermatodea_proteins.fasta"
+    ]
+  },
+  "Saccorhiza_polyschides_annotations.txt": {
+    "displayed_name": "<i>Saccorhiza polyschides</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fsaccorhiza_polyschides&loc={gene_name}&tracks=DNA%2Csaccorhiza_polyschides_gene_models",
+    "gene_blast_dbs": [
+      "Saccorhiza_polyschides_cDNA.fasta",
+      "Saccorhiza_polyschides_CDS.fasta",
+      "Saccorhiza_polyschides_genome.fasta",
+      "Saccorhiza_polyschides_proteins.fasta"
+    ]
+  },
+  "Schizocladia_ischiensis_annotations.txt": {
+    "displayed_name": "<i>Schizocladia ischiensis</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fschizocladia_ischiensis&loc={gene_name}&tracks=DNA%2Cschizocladia_ischiensis_gene_models",
+    "gene_blast_dbs": [
+      "Schizocladia_ischiensis_cDNA.fasta",
+      "Schizocladia_ischiensis_CDS.fasta",
+      "Schizocladia_ischiensis_genome.fasta",
+      "Schizocladia_ischiensis_proteins.fasta"
+    ]
+  },
+  "Scytosiphon_promiscuus_annotations.txt": {
+    "displayed_name": "<i>Scytosiphon promiscuus</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fscytosiphon_promiscuus&loc={gene_name}&tracks=DNA%2Cscytosiphon_promiscuus_gene_models",
+    "gene_blast_dbs": [
+      "Scytosiphon_promiscuus_cDNA.fasta",
+      "Scytosiphon_promiscuus_CDS.fasta",
+      "Scytosiphon_promiscuus_genome.fasta",
+      "Scytosiphon_promiscuus_proteins.fasta"
+    ]
+  },
+  "Sphacelaria_rigidula_annotations.txt": {
+    "displayed_name": "<i>Sphacelaria rigidula</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fsphacelaria_rigidula&loc={gene_name}&tracks=DNA%2Csphacelaria_rigidula_gene_models",
+    "gene_blast_dbs": [
+      "Sphacelaria_rigidula_cDNA.fasta",
+      "Sphacelaria_rigidula_CDS.fasta",
+      "Sphacelaria_rigidula_genome.fasta",
+      "Sphacelaria_rigidula_proteins.fasta"
+    ]
+  },
+  "Sphaerotrichia_firma_annotations.txt": {
+    "displayed_name": "<i>Sphaerotrichia firma</i>",
+    "description": "",
+    "jbrowse": "/jbrowse/?data=data%2Fsphaerotrichia_firma&loc={gene_name}&tracks=DNA%2Csphaerotrichia_firma_gene_models",
+    "gene_blast_dbs": [
+      "Sphaerotrichia_firma_cDNA.fasta",
+      "Sphaerotrichia_firma_CDS.fasta",
+      "Sphaerotrichia_firma_genome.fasta",
+      "Sphaerotrichia_firma_proteins.fasta"
+    ]
+  }
 }
